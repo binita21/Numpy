@@ -1,0 +1,4 @@
+std_id,Math,Science,Computer,English
+1,60,55,55,70
+2,57,56,59,60
+3,70,60,49,53
